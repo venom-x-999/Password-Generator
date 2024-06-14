@@ -11,6 +11,7 @@ Before using the Password Generator, ensure you have Bash and `openssl` installe
 ```bash
 apt update
 apt upgrade
-git clone https://github.com/venom-x-999/Password-Generator.git
+apt install openssl
+git clone https://github.com/venom-x-999/Password-Generator.git](https://github.com/venom-x-999/Password-Generator.git
 cd Password-Generator
 chmod +x 
