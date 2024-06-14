@@ -14,4 +14,5 @@ apt upgrade
 apt install openssl
 git clone https://github.com/venom-x-999/Password-Generator.git](https://github.com/venom-x-999/Password-Generator.git
 cd Password-Generator
-chmod +x 
+chmod +x pass-gen.sh
+./pass-gen.sh
